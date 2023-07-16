@@ -1,0 +1,4 @@
+name: AmethystMagic
+version: '${project.version}'
+main: org.legoeden.amethystmagic.AmethystMagic
+api-version: '1.20'
